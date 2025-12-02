@@ -7,7 +7,7 @@
 </head>
 <body>
 
-  <h1>🧳 YOLOconomy: Personalized Hotel Recommendation Using Data Science</h1>
+  <h1>🧳 YOLOconomy: Personalized Hotel Recommendation Analytics</h1>
 
   <div class="section">
     <h2>🚀 Project Overview</h2>
